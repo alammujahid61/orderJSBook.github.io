@@ -1,0 +1,40 @@
+body{background-color:darkgrey;margin: 0;padding:20px 0;}
+img{border: 2px  solid ;border-radius:80px;color:white;}
+h3{border: 1px solid black;color:whitesmoke;background-color:rgba(0,0,0,0.3);width:auto;padding: 2;text-align: center}
+
+form {width:500;margin: auto;border: 1 solid red;font-weight: 100}
+form p{display:inline-block; padding:0 50 0 5;font-size:18.5}
+
+.email{padding-right: 78.5px;}
+.email_input{text-align: center;padding: 3.5 40;border-radius: 2px;border-color:white}
+
+form h3{text-align: center;font-family:sans-serif}
+input[type="text"]{margin-right:7;text-align: center;padding: 3.5 0;border-radius: 2px;border-color:white}
+
+select{padding: 2 0;}
+input[type="num"]{text-align: center;padding:3.5 0;border-radius: 2px;border-color:white}
+.num{margin-right:-32.3}
+
+.terms{margin-left: 36px}
+
+.choose{margin-left:-28.9}
+
+.quantity{margin-left:168}
+
+
+b{color:rgb(255, 0, 0)}
+
+.purchase{margin-left: 180px;background-color:rgba(0,0,0,0.6);
+    color:whitesmoke;border-radius: 5px;
+    font-size: 18;
+    padding: 3 10;cursor:pointer;font-family: serif;
+    }
+.purchase:hover{
+    background: whitesmoke;
+    color:black;
+}
+
+
+
+
+
